@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:bigsoft-vn/guitar-chords-web.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:bigsoft-vn/guitar-chords-backend.git
